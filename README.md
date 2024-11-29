@@ -9,9 +9,6 @@ A simple slideshow built using HTML, CSS, and JavaScript. This project allows us
 - **Auto-Sliding**: Slides automatically transition every 5 seconds.
 - **Wrap-Around Navigation**: Moving past the first or last slide loops back to the other end.
 
-## Demo
-
-![Slideshow Preview](https://via.placeholder.com/800x400?text=Slideshow+Preview)
 
 ## How It Works
 
